@@ -1,0 +1,25 @@
+.skills-container {
+    width: 100%;
+    border: 1px solid black;
+}
+
+.skillset {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.svg-icons {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    column-gap: 20px;
+}
+
+.svg-icons img{
+    width: 40px;
+}

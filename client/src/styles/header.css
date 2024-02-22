@@ -1,0 +1,13 @@
+.header-container {
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 250px;
+}
+
+.profile {
+    width: 300px;
+    border-radius: 50%;
+}
